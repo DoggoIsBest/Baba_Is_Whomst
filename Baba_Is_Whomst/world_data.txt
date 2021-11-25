@@ -1,0 +1,10 @@
+[levels]
+rolling_levelid=16
+levelid=16
+
+[general]
+firstlevel=1level
+start=2level
+author=DoggoIsBest
+name=Baba is whomst
+
